@@ -1,6 +1,9 @@
 # DevOps_DataEngineering
 
 
+![image](https://user-images.githubusercontent.com/28874545/179790889-b26989ca-cdbb-4b79-8d68-904203990f27.png)
+
+
 In the last blog [link](https://medium.com/@haripranav98/building-data-engineering-pipelines-on-aws-5329f3120e77) we created a Flask application on an AWS EC2 instance and built custom data pipelines to interact with Data Engineering tools on AWS. This method of deployment has its own pitfalls, as the entire software development lifecycle which involves the maintenance of code, development of new features, collaboration and versioning is often difficult to handle.
 Hence we need to shift to a DevOps approach which helps developers create end to end pipelines from development to testing to production which can deal with collaborative changes.
 
